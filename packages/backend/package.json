@@ -1,0 +1,8 @@
+{
+  "name": "@spotify-web3/backend",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
